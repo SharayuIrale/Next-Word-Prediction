@@ -20,7 +20,7 @@ https://github.com/SharayuIrale/Next-Word-Prediction
 
 o Navigate to the project directory:
 
-cd Next-Word-Predictor
+cd Next-Word-Prediction
 
 # Installation:
 Clone this repository to your local machine.
