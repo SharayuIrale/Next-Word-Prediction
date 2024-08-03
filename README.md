@@ -11,14 +11,13 @@ o Python 3.x
 
 o Required libraries: nltk, numpy, scikit-learn,TensorFlow library
 
-
-
 o Install the required dependencies using pip install tensorflow.
 # Getting Started
 o Clone the repository:
 
 git clone: 
-SharayuIrale/Next-Word-Prediction-
+https://github.com/SharayuIrale/Next-Word-Prediction
+
 o Navigate to the project directory:
 
 cd Next-Word-Predictor
